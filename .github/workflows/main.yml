@@ -1,4 +1,4 @@
-name: React App Deploy to Surge
+name: Deploying Basic React App 
 
 on:
   push:
